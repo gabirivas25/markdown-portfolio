@@ -3,3 +3,4 @@
 - The beach
 - Traveling
 - Learning Git and GitHub
+- Time with friends
